@@ -1,4 +1,4 @@
-package testdb;
+package secretary;
 
 import java.sql.Connection;
 import java.sql.SQLException;

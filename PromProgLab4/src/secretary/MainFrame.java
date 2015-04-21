@@ -1,4 +1,4 @@
-package testdb;
+package secretary;
 
 import java.sql.*;
 import java.util.ArrayList;
